@@ -1,0 +1,275 @@
+html {
+    background: white;
+    
+}
+html, body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+     
+    
+    padding: 0;
+    margin: 0;
+    width:  100%;
+    height: auto;
+    background-color: white;
+    padding-top: 28;
+    padding-bottom: 12px;
+}
+.headercontent{
+    padding-top: 25px;
+    width: auto;
+    height:auto;
+    margin:0 auto;
+   
+}
+#banner{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.nav{
+     width: 100%; 
+    position: fixed;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 39px;
+    background: white;
+}
+.nav ul{
+    color: black;
+    font-size: 22px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.nav ul li{
+    color: black
+    font-size: 24px;
+    float: left;
+    list-style: none;
+}
+.nav ul li a{
+    color: black;
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 10px 20px;
+}
+
+.nav ul li a:visited{
+    color: black;
+}
+
+.nav ul li a:hover{
+    color: red;
+}
+h1 {text-align: left;
+    width: 25%;
+    padding-left: 20%;
+    font-size: 55px;
+    padding-top: 40px;
+    font-family: sm;
+    padding-bottom: 0;
+    display: inline;
+}
+
+#quote{
+    font-family: sm;
+    padding-top: .5%;
+    padding-right: 15%;
+    text-align:right;
+    font-size: 23px;
+    float: right;
+}
+
+#nav{
+    font-family: "sm";
+    color: black;
+}
+
+#me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    height: auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+#aboutme{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+
+#gallery{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+#resume{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+#contact{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+.contact{
+    
+   
+    height: auto;
+    text-align: center;
+
+}
+
+#cell{
+    font-family: "jose";
+    padding-right: 20px;
+    font-size: 25px;
+    display:inline;
+}
+
+#email{
+    font-family: "jose";
+    font-size: 25px;
+    display:inline;
+}
+
+#socialmedia {
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    line-height: 50spx;
+    background: black;
+    bottom:0px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 5px;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+
+
+
+#potrait {
+    margin-left: 25%;
+   
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+div {
+    
+}
+
+#bio {
+    font-family: jose;
+    font-size: 25px;
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+    color: black;
+    text-align: justify;
+    
+}
+
+#mypic {
+    align-content: center;
+}
+
+#footer {
+    font-family: "sm";
+    color: white;
+}
+
+
+
+#projects {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-width:100%;
+    max-height:100%;
+}
+
+
+
+#art14 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: auto;
+   width:auto;
+   max-height: 200px;
+   max-width: 460px;
+}
+
+.img-circle {
+    width: 200px;
+    height: 200px;
+}
+
+.gallery {
+    margin-left: 28%;
+    margin-right: 25%;
+    width: auto;
+    
+}
+@font-face {
+    font-family: sm;
+    src: url('Prida36.ttf');
+}
+
+
+
+@font-face {
+    font-family: futura;
+    src: url('Futura.ttf');
+}
+
+@font-face {
+    font-family: jose;
+    src: url('Jose.ttf');
+}
+
+#resume1 {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
