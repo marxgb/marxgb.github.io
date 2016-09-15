@@ -34,7 +34,7 @@ html, body{
 .nav{
      width: 100%; 
     position: fixed;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     text-align: center;
     height: 27px;
     background: white;
@@ -341,6 +341,6 @@ div {
 .logos {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 30%;
+    padding-left: 25%;
     padding-right: 5%;
 }
