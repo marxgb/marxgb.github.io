@@ -300,17 +300,17 @@ div {
 }
 #thumbnailsholder {
     width:970px;
-    height:100px;
+    height:95px;
     background-color: white;
     margin: 5px auto;
     padding: 5px;
     align-content: center;
 }
 #thumbnailsholder img{
-    max-height: 100px;
-    max-width: 100px;
-    min-height: 100px;
-     min-width: 63px;
+    max-height: 95px;
+    max-width: 95px;
+    min-height: 95px;
+     min-width: 58px;
     display: block;
     float: left;
     margin: 2.2px;
