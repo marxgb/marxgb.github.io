@@ -300,7 +300,7 @@ div {
 }
 #thumbnailsholder {
     width:970px;
-    height:95px;
+    height:100px;
     background-color: white;
     margin: 5px auto;
     padding: 5px;
@@ -308,7 +308,7 @@ div {
 }
 #thumbnailsholder img{
     max-height: 95px;
-    max-width: 68px;
+    max-width: 60px;
     min-height: 95px;
      min-width: 58px;
     display: block;
