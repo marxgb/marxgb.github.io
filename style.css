@@ -275,7 +275,7 @@ div {
 }
 
 .holder {
-    width:1000px;
+    width:1100px;
     height: 750px;
     margin: 0 auto;
     background-color: silver;
@@ -283,7 +283,7 @@ div {
 }
 
 #bigImages {
-    width:980px;
+    width:1080px;
     height: 710px;
     background-color: white;
 }
@@ -299,7 +299,7 @@ div {
     min-height: 600px;
 }
 #thumbnailsholder {
-    width:970px;
+    width:1070px;
     height:100px;
     background-color: white;
     margin: 5px auto;
