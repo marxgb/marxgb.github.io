@@ -195,6 +195,7 @@ div {
 }
 
 #bio {
+     margin-top: 20px;
     font-family: jose;
     font-size: 25px;
     padding-left: 30%;
@@ -202,6 +203,7 @@ div {
     text-align: center;
     color: black;
     text-align: justify;
+    text-indent: 75px;
     
 }
 
@@ -323,7 +325,22 @@ div {
     cursor: pointer;
     
 }
+
 .socialmedia img:hover {
     border-radius: 128px;
     cursor: pointer;
+}
+
+.logos img{
+    height: 70px;
+    width: 70px;
+    
+    
+}
+
+.logos {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35%;
+    padding-right: 5%;
 }
