@@ -275,7 +275,7 @@ div {
 }
 
 .holder {
-    width:1200x;
+    width:110x;
     height: 750px;
     margin: 0 auto;
     background-color: silver;
@@ -283,7 +283,7 @@ div {
 }
 
 #bigImages {
-    width:1180px;
+    width:1080px;
     height: 710px;
     background-color: white;
 }
@@ -299,18 +299,18 @@ div {
     min-height: 600px;
 }
 #thumbnailsholder {
-    width:1170px;
-    height:100px;
+    width:1070px;
+    height:95px;
     background-color: white;
     margin: 5px auto;
     padding: 5px;
     align-content: center;
 }
 #thumbnailsholder img{
-    max-height: 100px;
-    max-width: 100px;
-    min-height: 100px;
-     min-width: 63px;
+    max-height: 95px;
+    max-width: 95px;
+    min-height: 95px;
+     min-width: 58px;
     display: block;
     float: left;
     margin: 2.2px;
