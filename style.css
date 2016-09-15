@@ -343,3 +343,36 @@ div {
     padding-bottom: 20px;
     text-align: center;
 }
+
+#work2 {
+    float: left;
+    padding-right: 15px;
+     padding-bottom: 15px;
+    max-width: 400px;
+    height: auto;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+
+#work {
+    margin top: 20px;
+    float: right;
+    padding-left:  15px;
+    padding-bottom: 15px;
+    max-width: 400px;
+    height: auto;
+    margin-left: ;
+    margin-right: 30%;
+    margin-top: 10px;
+    
+}
+
+#Snake Game {
+    font-family: "jose";
+}
+
+#snakegame {
+    text-align: center;
+    font-family: "jose";
+    font-size: 30px;
+}
